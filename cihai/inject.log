@@ -1,0 +1,158 @@
+2020-08-18 18:53:19导入失败
+executemany() missing 1 required positional argument: 'seq_params'
+2020-08-18 18:53:47导入失败
+Unread result found
+2020-08-18 20:51:56失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'she xian WHERE ID=0' at line 1
+2020-08-18 20:52:31失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'she xian WHERE ID=1' at line 1
+2020-08-18 21:32:08导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:32:08导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:32:08导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:32:08导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:39:57导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:39:57导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:39:57导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:39:57导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:40:36导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:40:36导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:40:36导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:40:36导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:43:27导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:43:57失败
+name 'mydb' is not defined
+2020-08-18 21:45:31导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:45:31导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:45:31导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:45:31导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:50:26导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:50:26导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:50:26导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:50:26导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:54:28导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:54:28导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:54:28导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:54:28导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s)' at line 1
+2020-08-18 21:58:14导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 21:58:14导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 21:58:14导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 21:58:14导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:01:56导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:01:56导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:01:56导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:01:56导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:03:53导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:03:53导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:03:53导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:03:53导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:11:38导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:11:38导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:11:38导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:11:38导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:12:13导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:12:13导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:12:13导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:12:13导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:13:34导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s) where id = 12' at line 1
+2020-08-18 22:13:34导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s) where id = 13' at line 1
+2020-08-18 22:13:34导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s) where id = 16' at line 1
+2020-08-18 22:13:34导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s,%s) where id = 19' at line 1
+2020-08-18 22:18:54导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:18:54导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:18:54导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:18:54导入失败
+Not all parameters were used in the SQL statement
+2020-08-18 22:24:45失败
+can only join an iterable
+2020-08-18 22:24:51失败
+can only join an iterable
+2020-08-18 22:27:16导入失败
+Not enough parameters for the SQL statement
+2020-08-18 22:27:16导入失败
+Not enough parameters for the SQL statement
+2020-08-18 22:27:16导入失败
+Not enough parameters for the SQL statement
+2020-08-18 22:27:16导入失败
+Not enough parameters for the SQL statement
+2020-08-18 22:31:15失败
+Not enough parameters for the SQL statement
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s)' at line 1
+2020-08-18 23:57:23导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s)' at line 1
+2020-08-18 23:57:24导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s)' at line 1
+2020-08-18 23:57:24导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s)' at line 1
+2020-08-18 23:57:24导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s)' at line 1
+2020-08-18 23:57:24导入失败
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s)' at line 1
