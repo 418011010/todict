@@ -8,11 +8,12 @@ import time
 config = {
     'user': 'root',
     'password': 'coship',
-    'host': '127.0.0.1',
+    'host': 'localhost',
     'database': 'rhymes',
     'charset': 'utf8',
     "connection_timeout": 20,
-    "use_pure": True
+    "use_pure": True,
+    "auth_plugin": 'mysql_native_password',
 }
 
 
@@ -102,6 +103,7 @@ def mysq(n):
         x['yin'] = re.sub('ō|ó|ǒ|ò', 'o', x['yin'])
         x['yin'] = re.sub('ū|ú|ǔ|ù', 'u', x['yin'])
         x['yin'] = re.sub('ē|é|ě|è', 'e', x['yin'])
+        x['yin'] = re.sub('ǖ|ǘ|ǚ|ǜ', 'u', x['yin'])
         #print(x['yin'])5t4r
         sql2 = "UPDATE cihai SET yun='{}' WHERE ID={}".format(x['yin'], index+1)
         #mycs.execute(sql2)

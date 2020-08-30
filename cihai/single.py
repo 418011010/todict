@@ -13,7 +13,8 @@ config = {
     'database': 'rhymes',
     'charset': 'utf8',
     "connection_timeout": 20,
-    "use_pure": True
+    "use_pure": True,
+    "auth_plugin": 'mysql_native_password',
 }
 
 

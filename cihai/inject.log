@@ -156,3 +156,25 @@ Not enough parameters for the SQL statement
 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s,%s)' at line 1
 2020-08-18 23:57:24导入失败
 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s,%s,%s,%s)' at line 1
+2020-08-30 11:08:13数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:14:55数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:18:17数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:18:24数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:18:39数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:18:43数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:18:47数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:20:52数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:24:39数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:27:22数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
+2020-08-30 11:29:51数据库连接失败
+Authentication plugin 'caching_sha2_password' is not supported
