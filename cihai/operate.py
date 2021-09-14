@@ -7,7 +7,7 @@ import time
 
 config = {
     'user': 'root',
-    'password': 'coship',
+    'password': '******',
     'host': 'localhost',
     'database': 'rhymes',
     'charset': 'utf8',
