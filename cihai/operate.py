@@ -74,7 +74,7 @@ def ins(mycs,yunlist,n,id):
         print("参数不对")
 
 
-def mysq(n):
+def sqlproccess(n):
     try:
         mydb = mysql.connector.connect(**config)
     except Exception as e:
@@ -177,4 +177,4 @@ def mysq(n):
     mydb.close()
 
 
-mysq(380580)
+sqlproccess(380580)
