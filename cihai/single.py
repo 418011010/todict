@@ -8,7 +8,7 @@ import xlrd
 
 config = {
     'user': 'root',
-    'password': 'coship',
+    'password': '******',
     'host': '127.0.0.1',
     'database': 'rhymes',
     'charset': 'utf8',
